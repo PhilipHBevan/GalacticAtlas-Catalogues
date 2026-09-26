@@ -17,8 +17,26 @@
       "schemaVersion": 1,
       "sourceName": "NASA Exoplanet Archive",
       "sourceURL": "https://exoplanetarchive.ipac.caltech.edu/"
+    },
+    {
+      "dataVersion": 1,
+      "id": "gaia-solar-neighbourhood",
+      "minimumAppVersion": "1.0",
+      "payload": {
+        "byteCount": 7303389,
+        "compression": "none",
+        "downloadURL": "https://philiphbevan.github.io/GalacticAtlas-Catalogues/gaia-solar-neighbourhood-v1.json",
+        "fileName": "gaia-solar-neighbourhood-v1.json",
+        "format": "json",
+        "sha256": "8a65b74082c4b560c0b95dea3057971ddc4a48b5a7611b29a462d10aa143eb6e"
+      },
+      "publishedAt": "2026-09-26T03:21:10Z",
+      "recordCount": 6842,
+      "schemaVersion": 1,
+      "sourceName": "ESA Gaia Archive (Gaia DR3)",
+      "sourceURL": "https://gea.esac.esa.int/archive/"
     }
   ],
   "formatVersion": 1,
-  "publishedAt": "2026-09-25T04:37:31Z"
+  "publishedAt": "2026-09-26T03:21:10Z"
 }

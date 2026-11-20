@@ -1,19 +1,19 @@
 {
   "catalogues": [
     {
-      "dataVersion": 2,
+      "dataVersion": 3,
       "id": "exoplanet-systems",
       "minimumAppVersion": "1.0",
       "payload": {
-        "byteCount": 4120361,
+        "byteCount": 4489929,
         "compression": "none",
-        "downloadURL": "https://philiphbevan.github.io/GalacticAtlas-Catalogues/exoplanet-systems-v2.json",
-        "fileName": "exoplanet-systems-v2.json",
+        "downloadURL": "https://philiphbevan.github.io/GalacticAtlas-Catalogues/exoplanet-systems-v3.json",
+        "fileName": "exoplanet-systems-v3.json",
         "format": "json",
-        "sha256": "4db4cff5d56132044f42c857eefce53862de18b145e47ebd55267e3afc6f1d3a"
+        "sha256": "9e7f594bf047e1a09ad40009567b1e1e19505655ef2b6ca6cd195926abd7fe4b"
       },
-      "publishedAt": "2026-09-26T11:34:11Z",
-      "recordCount": 4751,
+      "publishedAt": "2026-11-20T15:09:35Z",
+      "recordCount": 4765,
       "schemaVersion": 1,
       "sourceName": "NASA Exoplanet Archive",
       "sourceURL": "https://exoplanetarchive.ipac.caltech.edu/"
@@ -38,5 +38,5 @@
     }
   ],
   "formatVersion": 1,
-  "publishedAt": "2026-09-26T11:34:11Z"
+  "publishedAt": "2026-11-20T15:09:35Z"
 }
